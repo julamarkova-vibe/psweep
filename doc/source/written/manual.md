@@ -1735,7 +1735,7 @@ https://hydra.cc/ |*||
 See also [this long list of workflow
 engines](https://github.com/meirwah/awesome-workflow-engines) and [this even
 longer list of MLOps
-tools](https://neptune.ai/blog/mlops-tools-platforms-landscape).
+tools](https://web.archive.org/web/20251006160541/https://neptune.ai/blog/mlops-tools-platforms-landscape).
 
 (s:task-deps)=
 ### Handling task dependencies
